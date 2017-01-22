@@ -4,7 +4,7 @@
 
 All members and visitors of Hobart Makers Inc. agree to this code of conduct. It helps Hobart Makers Inc. maintain a safe and inclusive environment for all.
 
-Please report incidents that may be in breach of this code of conduct to the management committee in person, by email committee@hobartmakers.com, or any other convenient method.
+Please report incidents that may be in breach of this code of conduct to the management committee in person, by email safety@hobartmakers.com, or any other convenient method.
 
 Hobart Makers Inc. aims to provide a fun and welcoming environment so that diverse groups of people – regardless of age, race, gender identity or expression, background, disability, appearance, sexuality, walk of life, or religion – can get together to learn from and be inspired by each other about all things that are part of the [Maker Movement](https://en.wikipedia.org/wiki/Maker_culture).
 
