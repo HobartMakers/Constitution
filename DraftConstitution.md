@@ -102,13 +102,7 @@ chair that meeting.
 A member of the management committee may lose their seat on the committee for either of the following:
 
 * absence from three or more meetings without leave of absence
-* found not to be a financial member
-
-If the President or Vice President is unable to attend, then a chairperson nominated by the meeting shall
-chair that meeting.
-A member of the management committee may lose their seat on the committee for either of the following:
-
-* absence from three or more meetings without leave of absence
+* ceases to be ordinarily resident in Tasmania
 * found not to be a financial member
 
 ## POWERS OF THE MANAGEMENT COMMITTEE
