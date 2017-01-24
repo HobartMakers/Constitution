@@ -91,7 +91,7 @@ Management of the Association shall be vested in the Management Committee electe
 * Vice-President
 * Secretary
 * Treasurer
-* committee members (number to be nominated)
+* committee members (up to 2)
 
 No person shall hold more than one position on the Management Committee at any one time. A person shall cease to be a member of the Management Committee at the conclusion of the Annual General Meeting next following his/her election and he will be eligible for re-election.
 
@@ -140,7 +140,7 @@ The Secretary shall give at least fourteen (14) days notice of the date of the A
 
 All financial members may attend the Annual General Meeting.
 
-The quorum at the Annual General Meeting shall be a minimum of ……… members. If at the end of 30 minutes after the time appointed in the notice for the opening of the meeting there be no quorum the meeting shall stand and adjourn for one week. If at such meeting there is no quorum those members present shall be competent to discharge the business of the meeting.
+The quorum at the Annual General Meeting shall be a minimum of 3 members. If at the end of 30 minutes after the time appointed in the notice for the opening of the meeting there be no quorum the meeting shall stand and adjourn for one week. If at such meeting there is no quorum those members present shall be competent to discharge the business of the meeting.
 
 The agenda for an Annual General Meeting shall be:
 * Opening of meeting
@@ -158,11 +158,11 @@ The agenda for an Annual General Meeting shall be:
 
 ### Special General Meetings
 
-General meetings may be called by the Management Committee or at the request of the President and Secretary or on the written request of …….. members of the Association.
+General meetings may be called by the Management Committee or at the request of the President and Secretary or on the written request of 40% or 120 (whichever is the lesser) members of the Association.
 
 The Secretary shall give at least seven (7) days notice, in writing, of the date of the General Meeting to the members. Notice of General Meetings shall set out clearly the business for which the meeting has been called. No other business shall be dealt with at that General Meeting.
 
-The quorum at the General Meeting shall be a minimum of ………. members.
+The quorum at the General Meeting shall be a minimum of 3 members.
 
 ## Voting
 
@@ -189,7 +189,7 @@ A statement showing the financial position of the Association shall be tabled at
 
 A statement of Income and Expenditure, Assets and Liabilities shall be submitted to the Annual General Meeting. The auditor’s report shall be attached to such financial report.
 
-The financial year of the Association shall commence on …………… (date) each year.
+The financial year of the Association shall commence on 1st July each year.
 
 The accounts, books and all financial records of the Association shall be audited each year.
 
@@ -198,7 +198,7 @@ The signatories to the Association’s account/s will be the Treasurer and any o
 * President
 * Vice President
 * Secretary
-* Treasurer.
+* Treasurer
 
 All property and income of the Association will apply solely to the promotion of the objects of the Association and no part of that property or income shall be paid or otherwise distributed, directly or indirectly, to members except in good faith in the promotion of these objects.
 
