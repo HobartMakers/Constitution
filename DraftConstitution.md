@@ -10,8 +10,7 @@ The name of the Association is Hobart Makers (Inc.) hereinafter referred to as t
 
 The objects of the Assocation are:-
 
-* To facilitate association members access to resources to ...
-* To facilitate social activities by association members and the general public that ...
+* To promote and encourage making, to enable our association members to meet and connect with new makers from the general public, to encourage learning from each other, and to provide a safe and welcoming community
 * To educate association members and the general public about interesting new technologies and DIY methods to improve their own lives.
 
 ## 3. Powers of the Association
