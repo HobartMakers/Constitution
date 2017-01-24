@@ -200,7 +200,7 @@ The financial year of the Association shall commence on 1st January each year.
 
 The accounts, books and all financial records of the Association shall be audited each year.
 
-The signatories to the Association’s account/s will be the Treasurer and any one (1) from the following:
+The signatories to the Association’s account/s will be the Public Officer and any one (1) from the following:
 
 * President
 * Vice President
