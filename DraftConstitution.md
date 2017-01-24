@@ -12,6 +12,14 @@ The objects of the Assocation are:-
 
 * To promote and encourage making, to enable our association members to meet and connect with new makers from the general public, to encourage learning from each other, and to provide a safe and welcoming community
 * To educate association members and the general public about interesting new technologies and DIY methods to improve their own lives.
+* Purchasing, borrowing, leasing or being given any property.
+* Giving away, selling or loaning any property.
+* Building or altering a building for the association's purposes.
+* Raising money and encouraging contributions to the association
+* Publishing anything that the committee considers useful to the association
+* Helping any other association that is aligned with the association's purposes
+* Taking on any assets, liabilities and responsibilities of other associations, in the case of merging with another association
+* Anything legal that helps the association
 
 ## 3. Powers of the Association
 
