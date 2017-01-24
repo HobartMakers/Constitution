@@ -189,7 +189,7 @@ A statement showing the financial position of the Association shall be tabled at
 
 A statement of Income and Expenditure, Assets and Liabilities shall be submitted to the Annual General Meeting. The auditor’s report shall be attached to such financial report.
 
-The financial year of the Association shall commence on 1st July each year.
+The financial year of the Association shall commence on 1st January each year.
 
 The accounts, books and all financial records of the Association shall be audited each year.
 
