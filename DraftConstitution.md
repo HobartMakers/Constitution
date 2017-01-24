@@ -91,7 +91,7 @@ Management of the Association shall be vested in the Management Committee electe
 * Vice-President
 * Secretary
 * Treasurer
-* committee members (up to 2)
+* up to 2 ordinary committee members
 
 No person shall hold more than one position on the Management Committee at any one time. A person shall cease to be a member of the Management Committee at the conclusion of the Annual General Meeting next following his/her election and he will be eligible for re-election.
 
