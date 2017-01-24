@@ -184,7 +184,11 @@ The President shall be entitled to a deliberative vote, and in the event of a ti
 
 Each individual committee member present shall have one (1) vote.
 
-## 13. Finance
+## 13. Public Officer
+
+The committee shall appoint a public officer.
+
+## 14. Finance
 
 All funds of the Association shall be deposited into the Association’s accounts at such bank or recognised financial institution as the Management Committee may determine.
 
@@ -209,13 +213,13 @@ The signatories to the Association’s account/s will be the Public Officer and 
 
 All property and income of the Association will apply solely to the promotion of the objects of the Association and no part of that property or income shall be paid or otherwise distributed, directly or indirectly, to members except in good faith in the promotion of these objects.
 
-## 14. Alterations To The Constitution and By-Laws
+## 15. Alterations To The Constitution and By-Laws
 
 No alteration, repeal or addition shall be made to the Constitution except at the Annual General Meeting or General Meeting called for that purpose, and notice of all motions to alter, repeal or add to the Constitution shall be given to members fourteen (14) days prior to the Annual General Meeting or seven (7) days prior to a General Meeting called for such purpose. As well, the Secretary shall forward such notices of motion to each Management Committee member at least fourteen (14) days prior to the Annual General Meeting or seven (7) days prior to a General Meeting.
 
 Alterations to the By-Laws can only be made at Management Committee Meetings provided notice of the proposed alteration/s has been duly notified to Committee Members. Such motions or any part thereof shall be of no effect unless passed by a seventy five percent (75 per cent) majority (Special Resolution) of those present and entitled to vote at the Annual General Meeting, General Meeting or Management Committee Meeting as the case may be.
 
-## 15. Dissolution
+## 16. Dissolution
 
 If, on the winding up of the Association, any property of the Association remains after satisfaction of the debts and liabilities of the Association and the costs, charges and expenses of that winding up, that property shall be distributed:
 
