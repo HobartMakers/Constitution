@@ -134,29 +134,17 @@ The Secretary shall give at least fourteen (14) days notice of the date of the A
 
 All financial members may attend the Annual General Meeting.
 
-The quorum at the Annual General Meeting shall be a minimum of 3 members. If at the end of 30 minutes after the time appointed in the notice for the opening of the meeting there be no quorum the meeting shall stand and adjourn for one week. If at such meeting there is no quorum those members present shall be competent to discharge the business of the meeting.
+The quorum at the Annual General Meeting shall be a minimum of 6 members or 50% of the Ordinary Members (whichever is the lesser). If at the end of 30 minutes after the time appointed in the notice for the opening of the meeting there be no quorum the meeting shall stand and adjourn for one week. If at such meeting there is no quorum those members present shall be competent to discharge the business of the meeting.
 
-The agenda for an Annual General Meeting shall be:
-* Opening of meeting
-* Apologies
-* Confirmation of minutes of previous Annual General Meeting
-* Presentation of Annual Report
-* Adoption of Annual Report
-* Presentation of Treasurer’s statement
-* Election of New Executive
-* Appointment of Auditor or vote to remove requirement for an auditor for the previous financial year.
-* Determination of Annual Membership Fee
-* Notice/s of Motion
-* Urgent general business
-* Close
+The agenda for the Annual General Meeting will be provided in advance of the Annual General Meeting.
 
 ### Special General Meetings
 
-General meetings may be called by the Management Committee or at the request of the President and Secretary or on the written request of 40% or 120 (whichever is the lesser) members of the Association.
+General meetings may be called by the Management Committee or at the request of the President and Secretary or on the written request of 120 members or 40% of the Ordinary Members (whichever is the lesser).
 
 The Secretary shall give at least seven (7) days notice, in writing, of the date of the General Meeting to the members. Notice of General Meetings shall set out clearly the business for which the meeting has been called. No other business shall be dealt with at that General Meeting.
 
-The quorum at the General Meeting shall be a minimum of 3 members.
+The quorum at the General Meeting shall be a minimum of 6 members or 50% of the Ordinary Members (whichever is the lesser).
 
 ## 12. Voting
 
