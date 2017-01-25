@@ -10,8 +10,10 @@ The name of the Association is Hobart Makers (Inc.), referred to as the "Associa
 
 The objects of the Assocation are:-
 
-* To promote and encourage making, to enable our association members to meet and connect with new makers from the general public, to encourage learning from each other, and to provide a safe and welcoming community
-* To educate association members and the general public about interesting new technologies and DIY methods to improve their own lives.
+* To promote and encourage making, tinkering, repairing and repurposing.
+* To enable members to meet and connect with new makers from the public
+* To encourage learning and teaching about these topics
+* To provide a safe and welcoming community
 * Purchasing, borrowing, leasing or being given any property.
 * Giving away, selling or loaning any property.
 * Building or altering a building for the Association's purposes.
@@ -95,7 +97,7 @@ A quorum of the Management Committee shall be a half plus one.
 
 If the President or Vice President is unable to attend, then a chairperson nominated by the meeting shall
 chair that meeting.
-A member of the management committee may lose their seat on the committee for either of the following:
+A member of the management committee may lose their seat on the committee for any of the following:
 
 * absence from three or more meetings without leave of absence
 * ceases to be ordinarily resident in Tasmania
@@ -121,7 +123,7 @@ power to:
 
 If the revenue of the Association is above $250,000 in any given financial year, or if elected by vote of Ordinary Members at a Special General Meeting, the committee shall appoint an auditor. 
 
-The auditor, if one is appointed, shall certify the correctness of the financial documents, and provide a written report to be distibuted to the members of the Association.
+The auditor, if auditing is required, shall certify the correctness of the financial documents, and provide a written report to be distibuted to the members of the Association.
 
 The auditor may have access to any information about the Association necessary for the performance of their duties.
 
@@ -129,10 +131,10 @@ The auditor may have access to any information about the Association necessary f
 
 ### The Annual General Meeting
 
-The Annual General Meeting of the Association must be held within four months of the end of the club’s financial year.
-The Secretary shall give at least fourteen (14) days notice of the date of the Annual General Meeting to members.
+The Annual General Meeting of the Association must be held within three months of the end of the club’s financial year.
+The Management Committee shall give at least fourteen (14) days written notice of the date of the Annual General Meeting to members.
 
-All financial members may attend the Annual General Meeting.
+All members may attend the Annual General Meeting.
 
 The quorum at the Annual General Meeting shall be a minimum of 6 members or 50% of the Ordinary Members (whichever is the lesser). If at the end of 30 minutes after the time appointed in the notice for the opening of the meeting there be no quorum the meeting shall stand and adjourn for one week. If at such meeting there is no quorum those members present shall be competent to discharge the business of the meeting.
 
@@ -142,7 +144,7 @@ The agenda for the Annual General Meeting will be provided in advance of the Ann
 
 General meetings may be called by the Management Committee or at the request of the President and Secretary or on the written request of 120 members or 40% of the Ordinary Members (whichever is the lesser).
 
-The Secretary shall give at least seven (7) days notice, in writing, of the date of the General Meeting to the members. Notice of General Meetings shall set out clearly the business for which the meeting has been called. No other business shall be dealt with at that General Meeting.
+The Management Committee shall give at least seven (7) days notice, in writing, of the date of the General Meeting to the members. Notice of General Meetings shall set out clearly the business for which the meeting has been called. No other business shall be dealt with at that General Meeting.
 
 The quorum at the General Meeting shall be a minimum of 6 members or 50% of the Ordinary Members (whichever is the lesser).
 
@@ -152,7 +154,7 @@ The quorum at the General Meeting shall be a minimum of 6 members or 50% of the 
 
 The President shall be entitled to a deliberative vote, and in the event of a tied vote the President shall exercise a casting vote.
 
-Each individual financial member present shall have one (1) vote.
+Each individual member present shall have one (1) vote.
 
 ### Voting powers at Management Committee Meetings
 The President shall be entitled to a deliberative vote, and in the event of a tied vote the President shall exercise a casting vote.
@@ -167,9 +169,9 @@ The committee shall appoint a public officer.
 
 All funds of the Association shall be deposited into the Association’s accounts at such bank or recognised financial institution as the Management Committee may determine.
 
-All accounts due by the Association shall be paid by electronic banking after having been passed for payment at the Management Committee Meeting and when immediate payment is necessary account/s shall be paid and the action endorsed at the next Management Committee Meeting.
+All accounts due by the Association shall be paid after having been passed for payment at the Management Committee Meeting and when immediate payment is necessary account/s shall be paid and the action endorsed at the next Management Committee Meeting.
 
-The Treasurer shall not spend more than a set amount petty cash without the consent of the Management Committee and shall keep a record of such expenditure by means of a petty cash book or electronic account.
+The Treasurer shall not spend more than a set amount of petty cash without the consent of the Management Committee and shall keep a record of such expenditure.
 
 A statement showing the financial position of the Association shall be tabled at each Management Committee Meeting by the Treasurer.
 
@@ -201,4 +203,4 @@ If, on the winding up of the Association, any property of the Association remain
 * to another incorporated association having objects similar to those of the Association; or
 * for charitable or benevolent purposes, which incorporated association or purposes, as the case requires, shall be determined by resolution of the members
 
-Current members liability is limited to $1 per member, towards any costs of winding up of the Association.
+Liability towards any costs of winding up of the Association is limited to $1 per member
