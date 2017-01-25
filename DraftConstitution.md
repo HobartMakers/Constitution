@@ -48,7 +48,7 @@ Any person seeking membership shall make application to the Management Committee
 
 Each person admitted to membership shall be:
 
-* bound by the Constitution and the Code of Conduct of the Association
+* bound by the Constitution and by-laws of the Association
 * bound by the published rules of the Association
 
 ## 5. Membership Categories
