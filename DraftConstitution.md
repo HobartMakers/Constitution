@@ -48,42 +48,31 @@ Any person seeking membership shall make application to the Management Committee
 
 Each person admitted to membership shall be:
 
-* bound by the Constitution and by-laws of the Association
-* come liable for such fees and subscriptions as may be fixed by the Association
-* entitled to all advantages and privileges of membership.
+* bound by the Constitution and the Code of Conduct of the Association
+* bound by the published rules of the Association
 
 ## 5. Membership Categories
 
 ### Ordinary Member
 
-Any person who is has a current monthly or annual financial membership of the Association is entitled to hold any office and enjoy the privileges of the Association
+Any person who is a member of the Association is entitled to hold any office and enjoy the privileges of the Association
 
-### Social Member
-
-Persons other than ordinary members who are interested in promoting the Association, but who do not wish to participate in the playing activities of the Association, may become a Social member. 
-
-Social members do not have a current monthly or annual financial membership of the Association but may contribute by casual per-visit payment for use of facilities and resources of the Association
-
-### Patron
-
-The Association may, at its discretion, elect a patron/s or vice patron/s of the Association for such period as may be deemed necessary. Such patron/s or vice patron/s shall not be eligible to vote unless they are current members of the Association under another category of membership.
-
-### Life Membership
+### Life Member
 
 Any member who has given outstanding service to the Association may be elected by the Management Committee as a Life Member. Any ordinary member may nominate a person to the Management Committee for consideration for Life Membership.
 
 ## 6. Membership Records
 
-The Management Committee shall appoint a member of the Management Committee to maintain an up to date register of members of the Association.
+The Management Committee shall appoint a member to maintain an up to date register of members of the Association.
 
-A member may at any reasonable time inspect the records and documents of the Association
+Any member may at any reasonable time inspect the records and documents of the Association
 
 ## 7. Termination of Membership
 
-Any person’s membership may be terminated by the following events:
+Any person's membership may be terminated by the following events:
 
 * resignation
-* false or inaccurate statements made in the member’s application for membership of the Association,
+* false or inaccurate statements made in the member's application for membership of the Association,
 * breach of any rule, regulation or by-law of the Association or commit any act detrimental to the Association
 
 The Management Committee shall have the power to suspend or expel any member of the Association for any of the events above.
@@ -223,3 +212,5 @@ If, on the winding up of the Association, any property of the Association remain
 
 * to another incorporated association having objects similar to those of the Association; or
 * for charitable or benevolent purposes, which incorporated association or purposes, as the case requires, shall be determined by resolution of the members
+
+Current members liability is limited to $1 per member, towards any costs of winding up of the Association.
