@@ -130,11 +130,9 @@ power to:
 
 ## 10. Auditor
 
-Where the revenue of the Association is below $250,000, the Association is exempt from requiring financial statements to be audited for that financial year. However, if elected by vote of Ordinary Members at a Special General Meeting, the requirement for the financial documents to be audited can be forced for that financial year.
+If the revenue of the Association is above $250,000 in any given financial year, or if elected by vote of Ordinary Members at a Special General Meeting, the committee shall appoint an auditor. 
 
-If required, the committee shall appoint an Auditor for the previous financial year.
-
-The Auditor shall examine and audit all the books and accounts of the Association annually, certify their correctness, and provide a written report to the members of the association.
+The auditor, if one is appointed, shall certify the correctness of the financial documents, and provide a written report to the members of the Association.
 
 The auditor may have access to any information about the Association necessary for the performance of their duties.
 
