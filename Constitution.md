@@ -1,7 +1,5 @@
 # Constitution
 
-# STATUS: Draft
-
 ## 1. Name
 
 The name of the Association is Hobart Makers (Inc.), referred to as the "Association" in the rest of this document.
