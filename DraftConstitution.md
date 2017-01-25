@@ -4,7 +4,7 @@
 
 ## 1. Name
 
-The name of the Association is Hobart Makers (Inc.) hereinafter referred to as the "Association"
+The name of the Association is Hobart Makers (Inc.), referred to as the "Association" in the rest of this document.
 
 ## 2. Objects
 
@@ -14,12 +14,12 @@ The objects of the Assocation are:-
 * To educate association members and the general public about interesting new technologies and DIY methods to improve their own lives.
 * Purchasing, borrowing, leasing or being given any property.
 * Giving away, selling or loaning any property.
-* Building or altering a building for the association's purposes.
-* Raising money and encouraging contributions to the association
-* Publishing anything that the committee considers useful to the association
-* Helping any other association that is aligned with the association's purposes
+* Building or altering a building for the Association's purposes.
+* Raising money and encouraging contributions to the Association
+* Publishing anything that the committee considers useful to the Association
+* Helping any other association that is aligned with the Association's purposes
 * Taking on any assets, liabilities and responsibilities of other associations, in the case of merging with another association
-* Anything legal that helps the association
+* Any lawful activity that furthers the interests of the Association
 
 ## 3. Powers of the Association
 
@@ -175,7 +175,7 @@ A statement showing the financial position of the Association shall be tabled at
 
 A statement of Income and Expenditure, Assets and Liabilities shall be submitted to the Annual General Meeting. The auditor’s report shall be attached to such financial report.
 
-The financial year of the Association shall commence on 1st January each year.
+The financial year of the Association shall commence on the 1st of January each year.
 
 The accounts, books and all financial records of the Association shall be audited each year.
 
