@@ -136,7 +136,7 @@ The Auditor/s shall examine and audit all the books and accounts of the Associat
 power to call for all books, papers, accounts and receipts of the Association, and report thereon to the
 Annual General Meeting
 
-Where the revenue of the Association is below $250,000, the Association may elect by vote of Ordinary Members at an Annual or Special General Meeting, to remove the requirement to financial statements to be audited for that financial year.
+Where the revenue of the Association is below $250,000, the Association is exempt from requiring financial statements to be audited for that financial year. However, if elected by vote of Ordinary Members at a Special General Meeting, the requirement for the financial documents to be audited can be forced for that financial year.
 
 ## 11. General Meetings
 
