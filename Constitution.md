@@ -55,7 +55,7 @@ Each person admitted to membership shall be:
 
 ### Ordinary Member
 
-Any person who is a member of the Association is entitled to hold any office and enjoy the privileges of the Association
+Any person who is has a current monthly or annual financial membership with fee set by the Committee of the Association is entitled to hold any office and enjoy the privileges of the Association including an entitlement to vote at Association General Meetings.
 
 ### Life Member
 
