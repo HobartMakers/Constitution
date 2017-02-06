@@ -44,7 +44,7 @@ To enter into any other contract the Association considers necessary or desirabl
 
 Membership shall be open to any person who wishes to further the interests of the Association.
 
-Any person seeking membership shall make application to the Management Committee, and the Management Committee shall determine whether the application is successful or not. Applicants denied membership shall be advised in writing.
+Any person seeking Ordinary Membership shall make application to the Management Committee, and the Management Committee shall determine whether the application is successful or not. Applicants denied membership shall be advised in writing.
 
 Each person admitted to membership shall be:
 
