@@ -57,6 +57,10 @@ Each person admitted to membership shall be:
 
 Any person who is a member of the Association is entitled to hold any office and enjoy the privileges of the Association
 
+### Social Member
+
+Persons other than ordinary members who are interested in the activities of the Association, but who do not have a current monthly or annual financial membership of the Association. Social members may contribute in association Activities by casual per-visit payment for use of facilities and resources of the Association but are not entitled to hold any office of the Association and are not entitled to vote at Association General Meetings.
+
 ### Life Member
 
 Any member who has given outstanding service to the Association may be elected by the Management Committee as a Life Member. Any ordinary member may nominate a person to the Management Committee for consideration for Life Membership.
