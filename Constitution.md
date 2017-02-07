@@ -144,7 +144,7 @@ General meetings may be called by the Management Committee or at the request of 
 
 The Management Committee shall give at least seven (7) days notice, in writing, of the date of the General Meeting to the members. Notice of General Meetings shall set out clearly the business for which the meeting has been called. No other business shall be dealt with at that General Meeting.
 
-The quorum at the General Meeting shall be a minimum of 6 members or 50% of the Ordinary Members (whichever is the lesser).
+The quorum at the General Meeting shall be a minimum of 50% of the Ordinary Members or 15 Ordinary Members whichever is lesser.
 
 ## 12. Voting
 
