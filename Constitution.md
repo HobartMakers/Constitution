@@ -156,9 +156,10 @@ The quorum at the General Meeting shall be a minimum of 50% of the Ordinary Memb
 
 The President shall be entitled to a deliberative vote, and in the event of a tied vote the President shall exercise a casting vote.
 
-Each individual member present shall have one (1) vote.
+Each individual Ordinary member present shall have one (1) vote.
 
 ### Voting powers at Management Committee Meetings
+
 The President shall be entitled to a deliberative vote, and in the event of a tied vote the President shall exercise a casting vote.
 
 Each individual committee member present shall have one (1) vote.
