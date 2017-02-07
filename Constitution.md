@@ -134,7 +134,7 @@ The Management Committee shall give at least fourteen (14) days written notice o
 
 All members may attend the Annual General Meeting.
 
-The quorum at the Annual General Meeting shall be a minimum of 6 members or 50% of the Ordinary Members (whichever is the lesser). If at the end of 30 minutes after the time appointed in the notice for the opening of the meeting there be no quorum the meeting shall stand and adjourn for one week. If at such meeting there is no quorum those members present shall be competent to discharge the business of the meeting.
+The quorum at the Annual General Meeting shall the a minimum of 50% of the Ordinary Members or 15 Ordinary Members whichever is lesser. If at the end of 30 minutes after the time appointed in the notice for the opening of the meeting there be no quorum the meeting shall stand and adjourn for one week. If at such meeting there is no quorum those members present shall be competent to discharge the business of the meeting.
 
 The agenda for the Annual General Meeting will be provided in advance of the Annual General Meeting.
 
